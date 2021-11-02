@@ -53,8 +53,8 @@ Vì là mã nguồn mở nên Bất cứ ai cũng có thể tạo một Distro v
 
 - Các nhánh khác: 
   - **Open SuSe:** SuSE, Sun Java Desktop
-  - **Linux From Scratch: **Arch Linux, Crux Linux 
-  - **Gentoo: ** Kororaa, RR4 Linux, Gentoox, Litrix 
+  - Linux From Scratch: Arch Linux, Crux Linux 
+  - Gentoo:  Kororaa, RR4 Linux, Gentoox, Litrix 
 
 ## 3. Đặc điểm và So sánh các distro 
 
