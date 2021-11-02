@@ -8,7 +8,7 @@
 
 - **Tham khảo**
 
-!(ảnh các nhánh)[images/1.jpg]
+![ảnh các nhánh](images/1.jpg)
 
 # Distributions của Linux
 
