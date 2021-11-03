@@ -1,4 +1,4 @@
-# Truy cập các dòng lệnh 
+# 
 
 ## 1. Các khái niệm cơ bản 
 
@@ -12,7 +12,7 @@
 
 ## 1. Các khái niệm cơ bản 
 
-**Shell:** các dòng lệnh nhập vào Linux được gọi chung là shell 
+**Shell:** là giao diện mà người dùng làm việc với Linux
 
 **Bash shell:** các câu lệnh tự động hóa các nhiệm vụ 
 
