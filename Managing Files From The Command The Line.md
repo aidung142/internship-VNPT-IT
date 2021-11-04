@@ -194,7 +194,7 @@ lệnh `cd ..` thoát ra 1 lớp đứng ở trước nó ví dụ
 
 Đang đứng tại vị trí `/home/user/Videos ` sau khi sử dụng lệnh ra vị trí `/home/user` 
 
-Hôm nay em mới tới đây. Các báo cáo sau em cập nhật thêm 
+Hôm nay em mới tới đây. Các báo cáo sau em sẽ cập nhật thêm ạ
 
 
 
