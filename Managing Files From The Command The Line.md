@@ -198,6 +198,8 @@ Hôm nay em mới tới đây. Các báo cáo sau em sẽ cập nhật thêm ạ
 
 
 
+Các lệnh `ls` 
+
 Nguồn tham khảo: 
 
 https://quantrimang.com/he-thong-tap-tin-va-thu-muc-tren-linux-45046
