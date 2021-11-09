@@ -178,6 +178,8 @@ Ví dụ khi vừa đăng nhập sử dụng lệnh sau để xác định vị 
 
 khi vừa đăng nhập vào đang đứng tại /home/dung 
 
+## 2. Các câu lệnh thường dùng
+
 1. #####  Các lệnh `cd` 
 
 `cd -` trở về thư mục trước đó vừa đứng 
