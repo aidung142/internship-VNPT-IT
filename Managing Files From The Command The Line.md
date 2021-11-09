@@ -178,7 +178,7 @@ Ví dụ khi vừa đăng nhập sử dụng lệnh sau để xác định vị 
 
 khi vừa đăng nhập vào đang đứng tại /home/dung 
 
-Các lệnh `cd` 
+1. #####  Các lệnh `cd` 
 
 `cd -` trở về thư mục trước đó vừa đứng 
 
@@ -190,16 +190,64 @@ Ví dụ:   ![cd-](images/cd-.JPG)
 
 lệnh `cd ..` thoát ra 1 lớp đứng ở trước nó ví dụ 
 
-![cd..](images/cd...JPG)
+![cd](images/cd...JPG)
 
 Đang đứng tại vị trí `/home/user/Videos ` sau khi sử dụng lệnh ra vị trí `/home/user` 
 
 Hôm nay em mới tới đây. Các báo cáo sau em sẽ cập nhật thêm ạ
 
+2. ##### Các lệnh `ls` 
+
+-  Lệnh `ls`  hiển thị các file trong thư mục
+
+![ls](images/ls.jpg)
 
 
-Các lệnh `ls` 
+
+- Lệnh ` ls -t`hiển thị các file thay đổi theo thời gian 
+
+![ls-t](images/ls -t.jpg)
+
+- Lệnh `ls -1` hiển thị các file trên từng dòng 
+
+  ![ls-1](images/ls-1.jpg)
+
+- Lệnh ` ls -r` giống ls nhưng được xếp ngược lại 
+
+  ![ls-t](images/ls-r.jpg)
+
+- Lệnh `ls -s`Hiển thị các file theo kích thước giảm dần 
+
+  ![ls-s](images/ls-s.jpg)
+
+3. #####  Lệnh mkdir (make directory - tạo thư mục)
+
+- ​       `mkdir <ten_thu_muc>` Tạo thư mục tại vị trí đang đứng
+
+  ![mkdir](images/mkdir.jpg)
+
+- `mkdir -p <file>`: tạo file và thư mục cha chứa nó nếu cần. 
+
+  ![mkdir-p](images/mkdir-p.jpg)
+
+- `mkdir -v <ten_thu_muc>` Tạo thư mục và hiển thị thông báo thư mục 
+
+  ##### 
+
+  4. ##### Lệnh rmdir (remove directory - Xóa thư mục)
+
+  
+
+- `rmdir` xóa thư mục rỗng 
+
+  ![rmdir](images/rmdir.jpg)
+
+- `rmdir -p`: xóa tất cả file trong đó 
+
+  ![rmdir](images/rmdir-p.jpg)
+
+
 
 Nguồn tham khảo: 
 
-https://quantrimang.com/he-thong-tap-tin-va-thu-muc-tren-linux-45046
+https://quantrimang.com/he-thong-tap-tin-va-thu-muc-tren-linux-45046leenhj `
