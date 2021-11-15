@@ -54,15 +54,15 @@ Có 3 loại user: superuser, system users, regular users
 
 - Tạo group mới: 
 
-  ![taonhom](images/taonhom.jpg)
+  ![taonhom](images/taonhom.JPG)
 
 - Thêm user vào nhóm: 
 
-  ![themvao1nhom](images/themvao1nhom.jpg)
+  ![themvao1nhom](images/themvao1nhom.JPG)
 
 - cấp quyềnđể user có quyền như root 
 
-  ![capquyen](images/capquyen.jpg)
+  ![capquyen](images/capquyen.JPG)
 
 - Các câu lệnh su 
 
@@ -70,9 +70,9 @@ Có 3 loại user: superuser, system users, regular users
 
   `su <user_name>`
 
-![su](images/su.jpg)
+![su](images/su.JPG)
 
 ​        `su -` `su`
 
-![su-](images/su- su.jpg)
+![su-](images/su- su.JPG)
 
