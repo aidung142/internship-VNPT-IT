@@ -76,3 +76,4 @@ Có 3 loại user: superuser, system users, regular users
 
 ![su-](images/su- su.JPG)
 
+![su-](images/su- su.JPG)
