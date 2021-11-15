@@ -54,11 +54,11 @@ Có 3 loại user: superuser, system users, regular users
 
 - Tạo group mới: 
 
-  ![taogr](images/taonhom.jpg)
+  ![taonhom](images/taonhom.jpg)
 
 - Thêm user vào nhóm: 
 
-  ![themuser](images/themvao1nhom.jpg)
+  ![themvao1nhom](images/themvao1nhom.jpg)
 
 - cấp quyềnđể user có quyền như root 
 
