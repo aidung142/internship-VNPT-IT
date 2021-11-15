@@ -50,7 +50,7 @@ Có 3 loại user: superuser, system users, regular users
 
 - Tạo user mới: 
 
-  ![taoUser](images\taoUser.JPG)
+  ![taoUser](images/taoUser.JPG)
 
 - Tạo group mới: 
 
