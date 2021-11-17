@@ -96,6 +96,7 @@ Thêm quyền execute cho group
 
 Loại bỏ quyền đọc của user 
 ` chmod u-r test.txt`
+  
   ![ls-l](images/chuong7/sm4.JPG)
 
 ## 2. Nguồn
