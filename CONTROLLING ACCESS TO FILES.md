@@ -40,6 +40,8 @@ x = execute permission
 
 – = no permission
 
+![ls-l](images/chuong7/quyen.JPG)
+
  
 (1): rwx quyền của user 
 
