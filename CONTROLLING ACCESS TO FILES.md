@@ -1,10 +1,10 @@
 CONTROLLING ACCESS TO FILES
 
-[1 Các khái niệm và cách thức phân quyền ](#man)
+[1 Các khái niệm và cách thức phân quyền ](#1)
 
-[2 Nguồn](##2)  
+[2 Nguồn](#2)  
 
-
+<a name ='1'></a> 
 ## 1 Các khái niệm: 
 Quyền sở hữu các tệp tin trong Linux: tất cả các tệp tin được gắn với 3 loại chủ sở hữu 
 
@@ -99,6 +99,6 @@ Loại bỏ quyền đọc của user
   
   ![ls-l](images/chuong7/sm4.JPG)
 
-## 2. Nguồn <a name="man"></a>
+## 2. Nguồn 
 <a name ='2'></a> 
 https://www.guru99.com/file-permissions.html
