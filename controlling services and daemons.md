@@ -32,9 +32,12 @@ Mỗi phần mở rộng ứng với các tác vụ riêng của nó
 
  ## 2. LAB 
  <a name ='2'></a> 
+  Liệt kê các tiến trình trong hệ thống 
+ - `systemctl list-unit-files --type=service`
+ ![list-unit](images/chuong9/list-unit.JPG)
  SỬ DỤNG systemctl để khởi động lại và tải lại
-Hiển thị trạng thái của dịch vụ SSHD
-`systemctl status sshd`
+ Hiển thị trạng thái của dịch vụ SSHD
+- `systemctl status sshd`
 
 ![9.1](images/chuong9/9.1.JPG)
 
