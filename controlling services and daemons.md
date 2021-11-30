@@ -13,7 +13,7 @@ Controlling services and daemons
 
 Systemd daemon: Quản lí các hoạt động khi khởi động linux, quản lí các ứng dụng chạy ẩn khi hệ thống đang chạy. Bắt đầu từ thời gian khởi động cho đến khi tắt máy 
 
-các services cụ thể khi bắt đầu khởi động: 
+Các services cụ thể khi bắt đầu khởi động: 
 - khả năng chạy nhiều tác vụ, tăng tốc độ của một hệ thống 
 - Các tác vụ khởi động cùng lúc bật máy được daemon quản lí 
 - Nhận biết các tác vụ tự động bật khi có môi trường cần thiết và tắt chúng đi khi chưa có môi trường. ví dụ các tác vụ cần internet sẽ được mở khi đã kết nối mạng 
