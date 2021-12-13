@@ -30,7 +30,7 @@ ens33 là giao diện card mạng
 
 ![12.3](images/12/12.3.JPG)
 
-tí nữa bổ sung thêm công dụng các dòng 
+
 1: trạng thái card mạng là up 
 2: Địa chỉ Mac 
 3: Địa chỉ IPv4 
