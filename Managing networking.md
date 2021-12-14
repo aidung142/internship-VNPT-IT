@@ -230,4 +230,4 @@ Xác nhận địa chỉ ip mới
 
 ` ip addr show ens33`
 
-
+![12.18](images/12/12.18.JPG)
