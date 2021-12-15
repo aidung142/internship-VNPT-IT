@@ -231,3 +231,10 @@ Xác nhận địa chỉ ip mới
 ` ip addr show ens33`
 
 ![12.18](images/12/12.18.JPG)
+
+
+# Nguồn: 
+
+Sách Redhat Enterprise Linux 8 
+
+https://itexamanswers.net/ccna-1-v7-0-curriculum-module-11-ipv4-addressing.html
