@@ -3,7 +3,9 @@
 
 [2. VALIDATING NETWORK CONFIGURATION](#2) 
 
-[3. CONFIGURING NETWORKING FROM THE COMMAND LINE](3)
+[3. CONFIGURING NETWORKING FROM THE COMMAND LINE](#3)
+
+[4. EDITING NETWORK CONFIGURATION FILES](#4)
 
 # 1. DESCRIBING NETWORKING CONCEPTS 
 <a name ='1'></a>
@@ -202,7 +204,7 @@ Tạo kết nối ens2 cho thiết bị với địa chỉ IPv4 tĩnh
 `nmcli dev dis dev` Vô hiệu hóa và ngắt kết nối hiện tại trên cổng mạng dev
 
 ` nmcli con del name` Xóa tên kết nối và tệp cấu hình của nó
-
+<a name ='4'></a>
 # 4. EDITING NETWORK CONFIGURATION FILES
 Chỉnh sửa cấu hình mạng ở tệp cấu hình 
 
